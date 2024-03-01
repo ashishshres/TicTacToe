@@ -1,6 +1,6 @@
 # ⭕TicTacToe❌
 
-### 🏸[Play live here](https://ashish-shr.github.io/TicTacToe/)
+### 🏸[Play live here](https://shrestha-ashish.github.io/TicTacToe/)
 
 ![](./app.png)
 ![](./win.png)
